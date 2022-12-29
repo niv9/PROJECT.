@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: -moz-repeating-linear-gradient();
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}   
